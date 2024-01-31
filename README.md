@@ -1,4 +1,4 @@
-A survival story game made with Ruby with Rails 
+A text-based survival story game made with Ruby with Rails 
 
 Languages: Ruby on Rails
 
